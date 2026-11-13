@@ -16,7 +16,7 @@
 
 ## Диаграмма классов
 
-![Диаграмма классов]([Диаграмма 1.png](https://github.com/Susta1n/pokemon-lab2/blob/a6ebc35865ee85d1ff8e7ea3eaa975bce7452532/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%201.png))([Диаграмма 2.png](https://github.com/Susta1n/pokemon-lab2/blob/3d4df8847bb3d877833bbd726c9f09e6d08a1b32/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%202.png))
+([Диаграмма 1.png](https://github.com/Susta1n/pokemon-lab2/blob/a6ebc35865ee85d1ff8e7ea3eaa975bce7452532/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%201.png))([Диаграмма 2.png](https://github.com/Susta1n/pokemon-lab2/blob/3d4df8847bb3d877833bbd726c9f09e6d08a1b32/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%202.png))
 
 ## Покемоны и их атаки
 
